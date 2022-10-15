@@ -1,0 +1,86 @@
+.page {
+    background-color: #f7d3ce;
+    border: 5px solid gray;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+    display: flex;
+    justify-content: center; 
+}
+
+img {
+    height: 200px;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    border-top: 5px ridge black;
+    border-bottom: 5px ridge black;
+    margin: 10px;
+}
+
+.button {
+    border: 3px double #c8d1db;
+    padding: 5px;
+    margin: 10px;
+    color: #ffffff;
+    background-color: #134070;
+    font-family: 'Noto Sans SC', sans-serif;
+
+}
+
+.information {
+    display: flex;
+    justify-content:  center;
+}
+
+.more {
+    border: 5px groove #97c3e5;
+    padding: 10px;
+    margin: 5px;
+    width: 500px;
+    height: 650px;
+    background-color: #ffffff;
+}
+
+.me {
+    width: 250px;
+    padding: 10px;
+}
+
+.mom {
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.special {
+    width: 200px;
+    height: 300px;
+    border: 2px solid black;            
+}
+
+.basic {
+    border: 2px double gray;
+    background-color: #dddddd;
+    text-align: center;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+.posts {}
+
+.friends {
+    width: 250px;
+    padding: 10px;
+}
+
+.people {
+    height: 230px;
+}
